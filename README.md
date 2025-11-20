@@ -12,6 +12,6 @@ ZeroDivisionError
 
 ValueError
 
-📘 Purpose
+## 📘 Purpose
 
 To understand how Python handles errors and how we can prevent a program from crashing by using proper exception handling techniques.
